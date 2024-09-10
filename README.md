@@ -1,4 +1,4 @@
-# INVERSE-OF-A-MATRIX
+# EX-03-INVERSE-OF-A-MATRIX
 ## DATE:
 ## Aim:
 To write a python program to find the inverse of a matrix
